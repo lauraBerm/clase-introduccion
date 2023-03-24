@@ -1,0 +1,20 @@
+h1{
+    color: purple;
+    text-align: center;
+}
+.titulo{
+
+    font-size: 50px;
+}
+.titulo:hover{
+    
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+
+html{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoQ2VdaTQ86P123LPaR7lm7QZ_f5fmrOFRA&usqp=CAU)
+}
